@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "framework": "vite",
+  "framework": "static",
   "buildCommand": "pnpm --filter @workspace/resonate run build",
   "outputDirectory": "artifacts/resonate/dist",
   "rewrites": [
