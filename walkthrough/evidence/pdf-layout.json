@@ -1,0 +1,392 @@
+{
+  "pages": 67,
+  "chapters": 33,
+  "source_files": 370,
+  "declared_package_variants": 150,
+  "layout": [
+    {
+      "id": "01",
+      "page": 4,
+      "title": "The project in one clear explanation",
+      "scale": 1
+    },
+    {
+      "id": "02",
+      "page": 5,
+      "title": "Why I made it",
+      "scale": 1
+    },
+    {
+      "id": "03",
+      "page": 6,
+      "title": "Read the project honestly",
+      "scale": 1
+    },
+    {
+      "id": "04",
+      "page": 7,
+      "title": "The complete visitor journey",
+      "scale": 0.895
+    },
+    {
+      "id": "05",
+      "page": 8,
+      "title": "A tour of all 26 routes",
+      "scale": 0.94
+    },
+    {
+      "id": "06",
+      "page": 9,
+      "title": "The rest of the site map",
+      "scale": 0.94
+    },
+    {
+      "id": "07",
+      "page": 10,
+      "title": "Why the project looks this way",
+      "scale": 0.925
+    },
+    {
+      "id": "08",
+      "page": 11,
+      "title": "Everything I used\u2014and why",
+      "scale": 1
+    },
+    {
+      "id": "09",
+      "page": 12,
+      "title": "The architecture at a glance",
+      "scale": 0.895
+    },
+    {
+      "id": "10",
+      "page": 13,
+      "title": "From HTML to an interactive page",
+      "scale": 1
+    },
+    {
+      "id": "11",
+      "page": 14,
+      "title": "How the cinematic entrance works",
+      "scale": 0.985
+    },
+    {
+      "id": "12",
+      "page": 15,
+      "title": "The neural hero, explained",
+      "scale": 0.865
+    },
+    {
+      "id": "13",
+      "page": 16,
+      "title": "The rest of the visual engine",
+      "scale": 1
+    },
+    {
+      "id": "14",
+      "page": 17,
+      "title": "Sound built in the browser",
+      "scale": 1
+    },
+    {
+      "id": "15",
+      "page": 18,
+      "title": "Echo Studio",
+      "scale": 0.985
+    },
+    {
+      "id": "16",
+      "page": 19,
+      "title": "Empathy Coach and Mood Genome",
+      "scale": 1
+    },
+    {
+      "id": "17",
+      "page": 20,
+      "title": "ResoQuests, Safe Circles, Heritage",
+      "scale": 1
+    },
+    {
+      "id": "18",
+      "page": 21,
+      "title": "The terminal: a project within the project",
+      "scale": 1
+    },
+    {
+      "id": "19",
+      "page": 22,
+      "title": "What happens when someone joins?",
+      "scale": 0.88
+    },
+    {
+      "id": "20",
+      "page": 23,
+      "title": "Domain design and shared state",
+      "scale": 1
+    },
+    {
+      "id": "21",
+      "page": 24,
+      "title": "Offline-first synchronization",
+      "scale": 0.97
+    },
+    {
+      "id": "22",
+      "page": 25,
+      "title": "The AI foundations, unpacked",
+      "scale": 1
+    },
+    {
+      "id": "23",
+      "page": 26,
+      "title": "Privacy and peer networking",
+      "scale": 1
+    },
+    {
+      "id": "24",
+      "page": 27,
+      "title": "Telemetry, memory, and the backend",
+      "scale": 1
+    },
+    {
+      "id": "25",
+      "page": 28,
+      "title": "How the monorepo holds together",
+      "scale": 1
+    },
+    {
+      "id": "26",
+      "page": 29,
+      "title": "What changed from Next.js",
+      "scale": 1
+    },
+    {
+      "id": "27",
+      "page": 30,
+      "title": "Run, build, and deploy it",
+      "scale": 0.925
+    },
+    {
+      "id": "28",
+      "page": 31,
+      "title": "What I verified",
+      "scale": 1
+    },
+    {
+      "id": "29",
+      "page": 32,
+      "title": "What I did not use\u2014or finish",
+      "scale": 1
+    },
+    {
+      "id": "30",
+      "page": 33,
+      "title": "From prototype to responsible product",
+      "scale": 0.88
+    },
+    {
+      "id": "31",
+      "page": 34,
+      "title": "How to present RESONATE",
+      "scale": 0.91
+    },
+    {
+      "id": "32",
+      "page": 35,
+      "title": "Questions you should be able to answer",
+      "scale": 0.865
+    },
+    {
+      "id": "33",
+      "page": 36,
+      "title": "Glossary and final perspective",
+      "scale": 1
+    },
+    {
+      "id": "A1",
+      "page": 37,
+      "title": "Read the code in this order",
+      "scale": 1
+    },
+    {
+      "id": "A2",
+      "page": 38,
+      "title": "More scenes, under the microscope",
+      "scale": 0.985
+    },
+    {
+      "id": "A3",
+      "page": 39,
+      "title": "A test plan you can explain",
+      "scale": 1
+    },
+    {
+      "id": "B1",
+      "page": 40,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B2",
+      "page": 41,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B3",
+      "page": 42,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B4",
+      "page": 43,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B5",
+      "page": 44,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B6",
+      "page": 45,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B7",
+      "page": 46,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B8",
+      "page": 47,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B9",
+      "page": 48,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B10",
+      "page": 49,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B11",
+      "page": 50,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B12",
+      "page": 51,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B13",
+      "page": 52,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B14",
+      "page": 53,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B15",
+      "page": 54,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B16",
+      "page": 55,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B17",
+      "page": 56,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "B18",
+      "page": 57,
+      "title": "Complete repository file catalog",
+      "scale": 1
+    },
+    {
+      "id": "C1",
+      "page": 58,
+      "title": "Every declared package",
+      "scale": 1
+    },
+    {
+      "id": "C2",
+      "page": 59,
+      "title": "Every declared package",
+      "scale": 1
+    },
+    {
+      "id": "C3",
+      "page": 60,
+      "title": "Every declared package",
+      "scale": 1
+    },
+    {
+      "id": "C4",
+      "page": 61,
+      "title": "Every declared package",
+      "scale": 1
+    },
+    {
+      "id": "C5",
+      "page": 62,
+      "title": "Every declared package",
+      "scale": 1
+    },
+    {
+      "id": "C6",
+      "page": 63,
+      "title": "Every declared package",
+      "scale": 1
+    },
+    {
+      "id": "C7",
+      "page": 64,
+      "title": "Every declared package",
+      "scale": 1
+    },
+    {
+      "id": "C8",
+      "page": 65,
+      "title": "Every declared package",
+      "scale": 1
+    },
+    {
+      "id": "C9",
+      "page": 66,
+      "title": "Every declared package",
+      "scale": 1
+    },
+    {
+      "id": "D1",
+      "page": 67,
+      "title": "Sources, reproducibility, and credits",
+      "scale": 0.97
+    }
+  ]
+}

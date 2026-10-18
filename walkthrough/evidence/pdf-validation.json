@@ -1,0 +1,42 @@
+{
+  "pdf": "walkthrough/RESONATE_Complete_Project_Walkthrough.pdf",
+  "date": "2026-10-18",
+  "pages": 67,
+  "chapters": 33,
+  "bookmarks": 65,
+  "internal_contents_links": 37,
+  "words_extracted": 17834,
+  "file_bytes": 385073,
+  "sha256": "49732cd392d6fa4369f9d2db76ba3fb3d6ed5b754fc5992681d8cef722e03180",
+  "all_chapter_titles_present": true,
+  "all_text_within_page_bounds": true,
+  "all_internal_link_targets_valid": true,
+  "explicit_source_routes": 26,
+  "raster_review_pages": [
+    1,
+    2,
+    4,
+    7,
+    11,
+    15,
+    22,
+    28,
+    36,
+    41,
+    61,
+    67
+  ],
+  "application_changes": "none",
+  "application_tests": {
+    "frozen_install": "passed",
+    "targeted_frontend_build": "passed",
+    "workspace_typecheck": "failed (existing frontend issues)"
+  },
+  "not_performed": [
+    "browser E2E",
+    "database integration",
+    "live peer connectivity",
+    "deployment",
+    "clinical evaluation"
+  ]
+}

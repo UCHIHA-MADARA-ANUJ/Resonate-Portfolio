@@ -1,0 +1,20 @@
+
+> @workspace/resonate@0.0.0 build /home/user/Resonate-Portfolio/artifacts/resonate
+> vite build --config vite.config.ts
+
+vite v7.3.3 building client environment for production...
+transforming...
+✓ 2253 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                                                              1.65 kB │ gzip:   0.66 kB
+dist/assets/4b70fb0a802ae4e14bed695f3e576db9_1781772643839-D_pZiEU5.jpg     27.93 kB
+dist/assets/g1h7uuanzez51_1781772614449-BtA5nurC.jpg                        35.20 kB
+dist/assets/index-C0GRbVGz.css                                             111.90 kB │ gzip:  18.31 kB
+dist/assets/index-BxAK0lqT.js                                            1,560.81 kB │ gzip: 457.21 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 14.73s
